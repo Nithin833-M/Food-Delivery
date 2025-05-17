@@ -16,7 +16,6 @@ Features
 - CSS – Stylesheet language used for designing and visually presenting HTML elements
 - React – JavaScript library for building user interfaces
 - React Router – For routing and navigation
-- Tailwind CSS – Utility-first CSS framework for responsive styling
 
  Backend
 - Node.js – JavaScript runtime environment for executing server-side code
