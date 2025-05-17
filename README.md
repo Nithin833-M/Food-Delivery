@@ -10,7 +10,7 @@ Features
 -  Responsive UI for all devices
 
  Tech Stack
- Frontend
+  Frontend
 - HTML – Markup language used to structure content on the web
 - CSS – Stylesheet language used for designing and visually presenting HTML elements
 - React – JavaScript library for building user interfaces
