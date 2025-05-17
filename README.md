@@ -51,4 +51,4 @@ For Admin
 
 ![image alt](https://github.com/Nithin833-M/Food-Delivery/blob/af5098fb4a5dcdd9ef37c8fe3dc6b67114fb7363/Screenshot%202025-05-17%20172415.png)
 
-![image alt](https://github.com/Nithin833-M/Food-Delivery/blob/af5098fb4a5dcdd9ef37c8fe3dc6b67114fb7363/Screenshot%202025-05-17%20172415.png)
+![image alt](https://github.com/Nithin833-M/Food-Delivery/blob/af5098fb4a5dcdd9ef37c8fe3dc6b67114fb7363/Screenshot%202025-05-17%20172317.png)
