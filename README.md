@@ -16,12 +16,14 @@ Features
 - CSS – Stylesheet language used for designing and visually presenting HTML elements
 - React – JavaScript library for building user interfaces
 - React Router – For routing and navigation
+- Axios - For seamless communication between the React frontend and Express backend via RESTful API calls
 
  Backend
 - Node.js – JavaScript runtime environment for executing server-side code
 - Express.js – Minimal and flexible Node.js web application framework
 - MongoDB – NoSQL database for storing application data
 - Mongoose – ODM (Object Data Modeling) library for MongoDB and Node.js
+- JWT - For secure user authentication and authorization across protected routes.
 
   Clone the repository
 git clone https://github.com/Nithin833-M/Food-Delivery.git
