@@ -17,7 +17,7 @@ Features
 - React Router – For routing and navigation
 - Tailwind CSS – Utility-first CSS framework for responsive styling
 
-Backend
+ Backend
 - Node.js – JavaScript runtime environment for executing server-side code
 - Express.js – Minimal and flexible Node.js web application framework
 - MongoDB – NoSQL database for storing application data
